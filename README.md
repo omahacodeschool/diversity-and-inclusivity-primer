@@ -36,12 +36,12 @@
     - More and more developers are self-taught but, “For students who decide to pursue a degree or learn to program on their own, they've likely had independent encouragement and opportunities along the way that aren't afforded to all young students. Despite a push for more computer science programs in K-12 schools, AP computer science classes are only in 5 percent of high schools. Only 26 states allow computer science classes to count towards graduation requirements. This means students aren't given full opportunity to explore computer science unless they come across it on their own and have ample access to a computer, and Hispanic and African American households are less likely than Caucasian households to have access to a desktop or laptop computer at home.”
 * Support
     - According to a 2008 Harvard study, there are five reasons why women leave the tech industry:
-    - Hostility in the workplace
-    - The dispiriting sense of isolation
-    - A disconnect between preferred work rhythms and riskier behavior rewarded in male-dominated fields
-    - Long workweeks and punishing travel schedules on top of household management
-    -  Lack of access to mentors and clear pathways for career advancement
-    - While the exclusion is often unintentional, the assumptions around women and minorities and the pressure to fit in with the "geek" culture is pushing out those who don't fit a specific stereotype.
+        * Hostility in the workplace
+        * The dispiriting sense of isolation
+        * A disconnect between preferred work rhythms and riskier behavior rewarded in male-dominated fields
+        * Long workweeks and punishing travel schedules on top of household management
+        * Lack of access to mentors and clear pathways for career advancement
+        * While the exclusion is often unintentional, the assumptions around women and minorities and the pressure to fit in with the "geek" culture is pushing out those who don't fit a specific stereotype.
 
 
 [The Core Belief Keeping Marginalized Groups out of Tech](https://modelviewculture.com/pieces/the-core-belief-keeping-marginalized-groups-out-of-tech) - Model View Culture 2/4/16

@@ -21,8 +21,8 @@
 
 * [#ILookLikeAnEngineer overview](http://techcrunch.com/2015/08/03/ilooklikeanengineer-aims-to-spread-awareness-about-gender-diversity-in-tech/) - TechCrunch 8/3/15
 * [#ILookLikeAnEngineer post from Facebook interns](https://www.facebook.com/photo.php?fbid=10206071383175095&set=a.3324082552369.138494.1577540292&type=3&theater&viewas=100000686899395) - Facebook 8/5/15
-* [The Other Side of Diversity](https://medium.com/this-is-hard/the-other-side-of-diversity-1bb3de2f053e#.qygn05wdf) - Medium (longer-but-great read, comparing experiences across companies)
-* [Thoughts on Diversity: Why Diversity is Difficult](https://medium.com/tech-diversity-files/thought-on-diversity-part-2-why-diversity-is-difficult-3dfd552fa1f7#.4b37431da) - Medium (written by Leslie Miley, formerly the only black Twitter engineer in a leadership position)
+* [The Other Side of Diversity](https://medium.com/this-is-hard/the-other-side-of-diversity-1bb3de2f053e#.qygn05wdf) - Medium 10/4/14
+* [Thoughts on Diversity: Why Diversity is Difficult](https://medium.com/tech-diversity-files/thought-on-diversity-part-2-why-diversity-is-difficult-3dfd552fa1f7#.4b37431da) - Medium 10/3/15 (written by Leslie Miley, formerly the only black Twitter engineer in a leadership position)
 
 
 ###Why does tech face this problem?

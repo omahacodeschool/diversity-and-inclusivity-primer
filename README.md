@@ -3,6 +3,7 @@
 ###Is there an inclusion problem in tech?
 
 [How do tech’s biggest companies compare on diversity?](http://www.theverge.com/2015/8/20/9179853/tech-diversity-scorecard-apple-google-microsoft-facebook-intel-twitter-amazon) - Verge 8/10/15
+
     * Take a look at the chart labeled “Diversity in Tech”. The default view is set to men of all races.
         *  Click the button to show women. Note that while men represent an average of 71% of a company’s workers, women represent 29%, meaning that men are more than 2x as likely to be represented than women
         * Click back to show the default view of men of all ethnicities. Now click through the racial categories. Compare these numbers to national workforce demographics featured at the top of the article.
@@ -10,6 +11,7 @@
     * Repeat this with the “Diversity in Leadership” chart. Compare data for each company against the same data for that company in the previous chart.
 
 [StackOverflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
+
     * The limited survey response data shows that the majority of women developers have been in the field for less than two years. 
     * Stack Overflow is optimistic that this might mean more women are entering the industry and are newbies. 
     * Alternatively, there’s been [many](http://www.latimes.com/business/la-fi-women-tech-20150222-story.html) [an article](http://fortune.com/2014/10/02/women-leave-tech-culture/) [published](https://medium.com/tech-diversity-files/if-you-think-women-in-tech-is-just-a-pipeline-problem-you-haven-t-been-paying-attention-cb7a2073b996#.8yo3vokfa) on why women leave tech. The survey numbers may reflect a low retention rate.
@@ -25,6 +27,7 @@
 ###Why does tech face this problem?
 
 [Three issues facing the tech industry that impact diversity](https://www.codefellows.org/blog/issues-facing-tech-industry-diversity) - Code Fellows 12/1/15
+
     * Scarcity
         - Lack of diversity stems from the larger issue facing tech: scarcity. There simply aren't enough developers to go around, whether they're male or female, African American or Asian, Hispanic or white. With supply so far below demand, companies … are doing little to rock the boat in an industry that already has a high turnover rate.
     * Training and Access
@@ -41,6 +44,7 @@
 
 
 [The Core Belief Keeping Marginalized Groups out of Tech](https://modelviewculture.com/pieces/the-core-belief-keeping-marginalized-groups-out-of-tech) - Model View Culture 2/4/16
+
     * A large-scale, national study run out of the University of Illinois set out to test for:
         - gender differences in willingness or ability to work long hours;
         - gender differences in the high end of the aptitude distribution (in other words, ability);

@@ -41,18 +41,14 @@
 
 
 [The Core Belief Keeping Marginalized Groups out of Tech](https://modelviewculture.com/pieces/the-core-belief-keeping-marginalized-groups-out-of-tech) - Model View Culture 2/4/16
+    * A large-scale, national study run out of the University of Illinois set out to test for:
+        - gender differences in willingness or ability to work long hours;
+        - gender differences in the high end of the aptitude distribution (in other words, ability);
+        - the extent to which a particular discipline requires systemizing (the need to understand abstract principles and rules) over empathizing (the need to understand human thoughts and feelings); and
+        - the extent to which practitioners believe that raw, innate talent is the main requirement for success.
+    * The study found there were no significant differences between men and women in the willingness or ability to work long hours, no significant differences between men and women in aptitude, and no significant gender differences around the systematic vs. empathetic nature of the field. 
+    * The only significant differences were in the beliefs that innate talent was required for success. In other words, **fields where professionals believed innate ability and raw talent were required for success had significantly less women.** These fields? Math, physics, computer science, and engineering.
 
-
-
-###Generally, why do inclusivity and diversity matter?
-
-[Raising the Bar](https://gimletmedia.com/episode/52-raising-the-bar/) - Reply All podcast (36 minutes; trascript toward the bottom of the page)
-    * Leslie Miley, a Silicon Valley engineer who previously worked with Twitter, talks about diversity in tech and his decision to leave the company.
-    * Show hosts share the theory that a more diverse workforce creates a better end product, raises bottom-lines
-    * A Princeton social scientist, Scott Page, [tested the idea](http://r21.ro/Teoria.pdf) that diverse teams would underperform compared to excellent, homogenous teams.
-        *  Page used mathematical algorithms as a stand-in for people, giving these algorithms really difficult math problems to solve. He made two teams, one full of highly effective algorithms all programmed to solve a problem in ways similar to each other...like how a group of people who all graduated from the same colleges might behave. 
-        *  Page filled the other side of his model with less expert equations, all of which approached the problems from totally different directions. Like a team from different backgrounds.
-        *  In almost every model he wrote, the team of the best individuals was not doing best. The “so called” expert performers, the ones who tended to have really similar strategies, when you put them in a team, they’d get stumped more or less at the same time. While the randomly-picked, less expert algorithms, they always had some new strategy to try. And they won again and again.
 
 
 ###What does an inclusive tech environment look like?
@@ -64,10 +60,10 @@
 
 
 
-###Twitter accounts:
+<!-- ###Twitter accounts:
 
 https://twitter.com/anildash
-https://twitter.com/yeswecode
+https://twitter.com/yeswecode -->
 
 
 

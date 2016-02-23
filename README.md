@@ -1,5 +1,9 @@
 ##Intro to Inclusivity and Diversity in Tech:
 
+This primer is a collection of introductory materials on inclusivity and diversity in the tech industry. Most of the articles below address racial and gender diversity and intersections of the two. This is not to say that these are the only types of diversity worth highlighting. These are, however, the dominant discussions in the industry today, and the conversations where perspectives of the individuals from the highlighted marginalized groups themselves are most readily found.
+
+We welcome outside feedback and addition to this resource guide.
+
 ###Is there an inclusion problem in tech?
 
 [How do tech’s biggest companies compare on diversity?](http://www.theverge.com/2015/8/20/9179853/tech-diversity-scorecard-apple-google-microsoft-facebook-intel-twitter-amazon) - Verge 8/10/15
